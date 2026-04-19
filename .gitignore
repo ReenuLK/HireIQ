@@ -1,7 +1,7 @@
+provenv/
 venv/
-.provenv/
 env/
-ENV/
+.venv/
 
 __pycache__/
 *.pyc
@@ -13,5 +13,10 @@ __pycache__/
 .env
 
 models/*.pkl
+models/*.faiss
 
 data/*.csv
+
+.vscode/
+
+notebook/models/
