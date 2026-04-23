@@ -21,4 +21,4 @@ data/*.csv
 
 key.json
 
-notebook/models/
+models/all-MiniLM-L6-v2/  
